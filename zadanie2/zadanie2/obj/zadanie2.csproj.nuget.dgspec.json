@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1125899\\Desktop\\g\\zadanie2\\zadanie2\\zadanie2\\zadanie2.csproj": {}
+    "C:\\Users\\1125899\\source\\repos\\test\\zadanie2\\zadanie2\\zadanie2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1125899\\Desktop\\g\\zadanie2\\zadanie2\\zadanie2\\zadanie2.csproj": {
+    "C:\\Users\\1125899\\source\\repos\\test\\zadanie2\\zadanie2\\zadanie2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1125899\\Desktop\\g\\zadanie2\\zadanie2\\zadanie2\\zadanie2.csproj",
+        "projectUniqueName": "C:\\Users\\1125899\\source\\repos\\test\\zadanie2\\zadanie2\\zadanie2.csproj",
         "projectName": "zadanie2",
-        "projectPath": "C:\\Users\\1125899\\Desktop\\g\\zadanie2\\zadanie2\\zadanie2\\zadanie2.csproj",
+        "projectPath": "C:\\Users\\1125899\\source\\repos\\test\\zadanie2\\zadanie2\\zadanie2.csproj",
         "packagesPath": "C:\\Users\\1125899\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1125899\\Desktop\\g\\zadanie2\\zadanie2\\zadanie2\\obj\\",
+        "outputPath": "C:\\Users\\1125899\\source\\repos\\test\\zadanie2\\zadanie2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1125899\\AppData\\Roaming\\NuGet\\NuGet.Config",

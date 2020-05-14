@@ -1,5 +1,5 @@
 ﻿using System;
-
+// крутая программа
 namespace zadanie2
 {
     static class libl2
